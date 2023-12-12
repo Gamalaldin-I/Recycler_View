@@ -1,0 +1,14 @@
+The first way
+1-> press to creat new  in this list you'll find Edit file template
+2-> Click on the add sign to create new template and name the this template
+3-> paste the cope of the code 
+4-> Apply and Ok
+
+if this way didn't work with you try this
+
+1-> Open android studio
+2-> Click on file ,Go to settings -> Editor -> File and code templates
+3-> Click on the add sign to create new template and name the this template
+4-> paste the cope of the code 
+5-> Apply and Ok
+by this way the recycler view will work with you
